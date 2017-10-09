@@ -3,7 +3,7 @@
         "name": "Fred",
         "age": 47,
         "dog": {
-            "breed": "Great Dane"
+            "breed": false
         }
     }
 }
